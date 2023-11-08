@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Square Root Calculator](https://www.calculator.io/square-root-calculator/ "Square Root Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_square_root_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Square Root Calculator to the sidebar through the `Appearance -> Widgets -> Square Root Calculator` menu in WordPress.
+* Add the shortcode `[ci_square_root_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_square_root_calculator(); ?>` to your template where you would like the Square Root Calculator to appear.
 
 == Screenshots ==
