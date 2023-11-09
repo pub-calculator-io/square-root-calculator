@@ -13,6 +13,8 @@ Square root calculator finds square roots of positive and negative numbers, iden
 
 Square root calculator finds square roots of positive and negative numbers, identifies the principal root, and determines if the number is a perfect square.
 
+[Square Root Calculator Homepage](https://www.calculator.io/square-root-calculator/ "Square Root Calculator Homepage")
+
 __Shortcode__
 
 Use the Square Root Calculator shortcode:
