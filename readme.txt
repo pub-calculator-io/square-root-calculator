@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Square root calculator finds square roots of positive and negative numbers, identifies the principal root, and determines if the number is a perfect square.
 
-== Description ==
-
-Square root calculator finds square roots of positive and negative numbers, identifies the principal root, and determines if the number is a perfect square.
-
 [https://www.calculator.io/square-root-calculator/](https://www.calculator.io/square-root-calculator/)
 
-__Square Root Calculator Shortcode__
+== Usage ==
+
+Add the Square Root Calculator shortcode to your page, post or sidebar:
 
 `[ci_square_root_calculator]`
 
-== Installation ==
+Add the following code to your template where you would like the Square Root Calculator to appear:
 
-1. Upload the /ci_square_root_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Square Root Calculator](https://www.calculator.io/square-root-calculator/ "Square Root Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Square Root Calculator Usage ==
-
-* Add the shortcode `[ci_square_root_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_square_root_calculator(); ?>` to your template where you would like the Square Root Calculator to appear.
+`<?php display_ci_square_root_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Square Root Calculator Input Form.
 2. The Square Root Calculator Calculation Results.
 
-== Libraries used in Square Root Calculator ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Square Root Calculator /ci_square_root_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the Square Root Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Square Root Calculator
