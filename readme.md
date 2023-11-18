@@ -1,4 +1,4 @@
-# Square Root Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Square Root Calculator Widget for WordPress
 
 Square root calculator finds square roots of positive and negative numbers, identifies the principal root, and determines if the number is a perfect square.
 
