@@ -7,7 +7,7 @@ Square root calculator finds square roots of positive and negative numbers, iden
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/square-root-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /square-root-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Square Root Calculator](https://www.calculator.io/square-root-calculator/ "Square Root Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 

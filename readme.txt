@@ -1,4 +1,4 @@
-=== Square Root Calculator ===
+=== Square Root Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: square root calculator, calculating square roots, radical expressions, square root of numbers, mathematical root calculations, simplifying square roots, perfect squares identification, square root function, numerical root extraction, advanced root computation
 Requires at least: 5.0
