@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Square Root Calculator by www.calculator.io
+Plugin Name: CI Square root calculator
 Plugin URI: https://www.calculator.io/square-root-calculator/
 Description: Square root calculator finds square roots of positive and negative numbers, identifies the principal root, and determines if the number is a perfect square.
 Version: 1.0.0
