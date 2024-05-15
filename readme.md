@@ -3,7 +3,6 @@
 Square root calculator finds square roots of positive and negative numbers, identifies the principal root, and determines if the number is a perfect square.
 
 ![Square Root Calculator Input Form](/assets/images/screenshot-1.png "Square Root Calculator Input Form")
-![Square Root Calculator Calculation Results](/assets/images/screenshot-2.png "Square Root Calculator Calculation Results")
 
 ## Installation
 

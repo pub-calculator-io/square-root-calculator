@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Square Root Cal
 == Screenshots ==
 
 1. The Square Root Calculator Input Form.
-2. The Square Root Calculator Calculation Results.
 
 == Installation ==
 
